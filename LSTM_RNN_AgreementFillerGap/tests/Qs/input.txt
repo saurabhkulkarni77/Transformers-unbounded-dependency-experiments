@@ -1,0 +1,320 @@
+Someone wondered which boys I think were lost . <eos>
+Someone wondered which girls I think were lost . <eos>
+Someone wondered which patients I think were lost . <eos>
+Someone wondered which parents I think were lost . <eos>
+Someone wondered which men I think were lost . <eos>
+Someone wondered which women I think were lost . <eos>
+Someone wondered which neighbors I think were angry . <eos>
+Someone wondered which teachers I think were sick . <eos>
+Someone wondered which lawyers I think were upset . <eos>
+Someone wondered which reporters I think were upset . <eos>
+Someone wondered which coaches I think were upset . <eos>
+Someone wondered which customers I think were upset . <eos>
+Someone wondered which officers I think were angry . <eos>
+Someone wondered which firemen I think were angry . <eos>
+Someone wondered which babies I think were sick . <eos>
+Someone wondered which authors I think were upset . <eos>
+Someone wondered which murses I think were upset . <eos>
+Someone wondered which instructors I think were upset . <eos>
+Someone wondered which teenagers I think were upset . <eos>
+Someone wondered which grandparents I think were upset . <eos>
+Someone wondered which boys I think was lost . <eos>
+Someone wondered which girls I think was lost . <eos>
+Someone wondered which patients I think was lost . <eos>
+Someone wondered which parents I think was lost . <eos>
+Someone wondered which men I think was lost . <eos>
+Someone wondered which women I think was lost . <eos>
+Someone wondered which neighbors I think was angry . <eos>
+Someone wondered which teachers I think was sick . <eos>
+Someone wondered which lawyers I think was upset . <eos>
+Someone wondered which reporters I think was upset . <eos>
+Someone wondered which coaches I think was upset . <eos>
+Someone wondered which customers I think was upset . <eos>
+Someone wondered which officers I think was angry . <eos>
+Someone wondered which firemen I think was angry . <eos>
+Someone wondered which babies I think was sick . <eos>
+Someone wondered which authors I think was upset . <eos>
+Someone wondered which murses I think was upset . <eos>
+Someone wondered which instructors I think was upset . <eos>
+Someone wondered which teenagers I think was upset . <eos>
+Someone wondered which grandparents I think was upset . <eos>
+Someone wondered which boy I think were lost . <eos>
+Someone wondered which girl I think were lost . <eos>
+Someone wondered which patient I think were lost . <eos>
+Someone wondered which parent I think were lost . <eos>
+Someone wondered which man I think were lost . <eos>
+Someone wondered which woman I think were lost . <eos>
+Someone wondered which neighbor I think were angry . <eos>
+Someone wondered which teacher I think were sick . <eos>
+Someone wondered which lawyer I think were upset . <eos>
+Someone wondered which reporter I think were upset . <eos>
+Someone wondered which coach I think were upset . <eos>
+Someone wondered which customer I think were upset . <eos>
+Someone wondered which officer I think were angry . <eos>
+Someone wondered which fireman I think were angry . <eos>
+Someone wondered which baby I think were sick . <eos>
+Someone wondered which author I think were upset . <eos>
+Someone wondered which nurse I think were upset . <eos>
+Someone wondered which instructor I think were upset . <eos>
+Someone wondered which teenager I think were upset . <eos>
+Someone wondered which grandparent I think were upset . <eos>
+Someone wondered which boy I think was lost . <eos>
+Someone wondered which girl I think was lost . <eos>
+Someone wondered which patient I think was lost . <eos>
+Someone wondered which parent I think was lost . <eos>
+Someone wondered which man I think was lost . <eos>
+Someone wondered which woman I think was lost . <eos>
+Someone wondered which neighbor I think was angry . <eos>
+Someone wondered which teacher I think was sick . <eos>
+Someone wondered which lawyer I think was upset . <eos>
+Someone wondered which reporter I think was upset . <eos>
+Someone wondered which coach I think was upset . <eos>
+Someone wondered which customer I think was upset . <eos>
+Someone wondered which officer I think was angry . <eos>
+Someone wondered which fireman I think was angry . <eos>
+Someone wondered which baby I think was sick . <eos>
+Someone wondered which author I think was upset . <eos>
+Someone wondered which nurse I think was upset . <eos>
+Someone wondered which instructor I think was upset . <eos>
+Someone wondered which teenager I think was upset . <eos>
+Someone wondered which grandparent I think was upset . <eos>
+Someone wondered which boys I think you said were lost . <eos>
+Someone wondered which girls I think you said were lost . <eos>
+Someone wondered which patients I think you said were lost . <eos>
+Someone wondered which parents I think you said were lost . <eos>
+Someone wondered which men I think you said were lost . <eos>
+Someone wondered which women I think you said were lost . <eos>
+Someone wondered which neighbors I think you said were angry . <eos>
+Someone wondered which teachers I think you said were sick . <eos>
+Someone wondered which lawyers I think you said were upset . <eos>
+Someone wondered which reporters I think you said were upset . <eos>
+Someone wondered which coaches I think you said were upset . <eos>
+Someone wondered which customers I think you said were upset . <eos>
+Someone wondered which officers I think you said were angry . <eos>
+Someone wondered which firemen I think you said were angry . <eos>
+Someone wondered which babies I think you said were sick . <eos>
+Someone wondered which authors I think you said were upset . <eos>
+Someone wondered which murses I think you said were upset . <eos>
+Someone wondered which instructors I think you said were upset . <eos>
+Someone wondered which teenagers I think you said were upset . <eos>
+Someone wondered which grandparents I think you said were upset . <eos>
+Someone wondered which boys I think you said was lost . <eos>
+Someone wondered which girls I think you said was lost . <eos>
+Someone wondered which patients I think you said was lost . <eos>
+Someone wondered which parents I think you said was lost . <eos>
+Someone wondered which men I think you said was lost . <eos>
+Someone wondered which women I think you said was lost . <eos>
+Someone wondered which neighbors I think you said was angry . <eos>
+Someone wondered which teachers I think you said was sick . <eos>
+Someone wondered which lawyers I think you said was upset . <eos>
+Someone wondered which reporters I think you said was upset . <eos>
+Someone wondered which coaches I think you said was upset . <eos>
+Someone wondered which customers I think you said was upset . <eos>
+Someone wondered which officers I think you said was angry . <eos>
+Someone wondered which firemen I think you said was angry . <eos>
+Someone wondered which babies I think you said was sick . <eos>
+Someone wondered which authors I think you said was upset . <eos>
+Someone wondered which murses I think you said was upset . <eos>
+Someone wondered which instructors I think you said was upset . <eos>
+Someone wondered which teenagers I think you said was upset . <eos>
+Someone wondered which grandparents I think you said was upset . <eos>
+Someone wondered which boy I think you said were lost . <eos>
+Someone wondered which girl I think you said were lost . <eos>
+Someone wondered which patient I think you said were lost . <eos>
+Someone wondered which parent I think you said were lost . <eos>
+Someone wondered which man I think you said were lost . <eos>
+Someone wondered which woman I think you said were lost . <eos>
+Someone wondered which neighbor I think you said were angry . <eos>
+Someone wondered which teacher I think you said were sick . <eos>
+Someone wondered which lawyer I think you said were upset . <eos>
+Someone wondered which reporter I think you said were upset . <eos>
+Someone wondered which coach I think you said were upset . <eos>
+Someone wondered which customer I think you said were upset . <eos>
+Someone wondered which officer I think you said were angry . <eos>
+Someone wondered which fireman I think you said were angry . <eos>
+Someone wondered which baby I think you said were sick . <eos>
+Someone wondered which author I think you said were upset . <eos>
+Someone wondered which nurse I think you said were upset . <eos>
+Someone wondered which instructor I think you said were upset . <eos>
+Someone wondered which teenager I think you said were upset . <eos>
+Someone wondered which grandparent I think you said were upset . <eos>
+Someone wondered which boy I think you said was lost . <eos>
+Someone wondered which girl I think you said was lost . <eos>
+Someone wondered which patient I think you said was lost . <eos>
+Someone wondered which parent I think you said was lost . <eos>
+Someone wondered which man I think you said was lost . <eos>
+Someone wondered which woman I think you said was lost . <eos>
+Someone wondered which neighbor I think you said was angry . <eos>
+Someone wondered which teacher I think you said was sick . <eos>
+Someone wondered which lawyer I think you said was upset . <eos>
+Someone wondered which reporter I think you said was upset . <eos>
+Someone wondered which coach I think you said was upset . <eos>
+Someone wondered which customer I think you said was upset . <eos>
+Someone wondered which officer I think you said was angry . <eos>
+Someone wondered which fireman I think you said was angry . <eos>
+Someone wondered which baby I think you said was sick . <eos>
+Someone wondered which author I think you said was upset . <eos>
+Someone wondered which nurse I think you said was upset . <eos>
+Someone wondered which instructor I think you said was upset . <eos>
+Someone wondered which teenager I think you said was upset . <eos>
+Someone wondered which grandparent I think you said was upset . <eos>
+Someone wondered which boys I think you said you thought were lost . <eos>
+Someone wondered which girls I think you said you thought were lost . <eos>
+Someone wondered which patients I think you said you thought were lost . <eos>
+Someone wondered which parents I think you said you thought were lost . <eos>
+Someone wondered which men I think you said you thought were lost . <eos>
+Someone wondered which women I think you said you thought were lost . <eos>
+Someone wondered which neighbors I think you said you thought were angry . <eos>
+Someone wondered which teachers I think you said you thought were sick . <eos>
+Someone wondered which lawyers I think you said you thought were upset . <eos>
+Someone wondered which reporters I think you said you thought were upset . <eos>
+Someone wondered which coaches I think you said you thought were upset . <eos>
+Someone wondered which customers I think you said you thought were upset . <eos>
+Someone wondered which officers I think you said you thought were angry . <eos>
+Someone wondered which firemen I think you said you thought were angry . <eos>
+Someone wondered which babies I think you said you thought were sick . <eos>
+Someone wondered which authors I think you said you thought were upset . <eos>
+Someone wondered which murses I think you said you thought were upset . <eos>
+Someone wondered which instructors I think you said you thought were upset . <eos>
+Someone wondered which teenagers I think you said you thought were upset . <eos>
+Someone wondered which grandparents I think you said you thought were upset . <eos>
+Someone wondered which boys I think you said you thought was lost . <eos>
+Someone wondered which girls I think you said you thought was lost . <eos>
+Someone wondered which patients I think you said you thought was lost . <eos>
+Someone wondered which parents I think you said you thought was lost . <eos>
+Someone wondered which men I think you said you thought was lost . <eos>
+Someone wondered which women I think you said you thought was lost . <eos>
+Someone wondered which neighbors I think you said you thought was angry . <eos>
+Someone wondered which teachers I think you said you thought was sick . <eos>
+Someone wondered which lawyers I think you said you thought was upset . <eos>
+Someone wondered which reporters I think you said you thought was upset . <eos>
+Someone wondered which coaches I think you said you thought was upset . <eos>
+Someone wondered which customers I think you said you thought was upset . <eos>
+Someone wondered which officers I think you said you thought was angry . <eos>
+Someone wondered which firemen I think you said you thought was angry . <eos>
+Someone wondered which babies I think you said you thought was sick . <eos>
+Someone wondered which authors I think you said you thought was upset . <eos>
+Someone wondered which murses I think you said you thought was upset . <eos>
+Someone wondered which instructors I think you said you thought was upset . <eos>
+Someone wondered which teenagers I think you said you thought was upset . <eos>
+Someone wondered which grandparents I think you said you thought was upset . <eos>
+Someone wondered which boy I think you said you thought were lost . <eos>
+Someone wondered which girl I think you said you thought were lost . <eos>
+Someone wondered which patient I think you said you thought were lost . <eos>
+Someone wondered which parent I think you said you thought were lost . <eos>
+Someone wondered which man I think you said you thought were lost . <eos>
+Someone wondered which woman I think you said you thought were lost . <eos>
+Someone wondered which neighbor I think you said you thought were angry . <eos>
+Someone wondered which teacher I think you said you thought were sick . <eos>
+Someone wondered which lawyer I think you said you thought were upset . <eos>
+Someone wondered which reporter I think you said you thought were upset . <eos>
+Someone wondered which coach I think you said you thought were upset . <eos>
+Someone wondered which customer I think you said you thought were upset . <eos>
+Someone wondered which officer I think you said you thought were angry . <eos>
+Someone wondered which fireman I think you said you thought were angry . <eos>
+Someone wondered which baby I think you said you thought were sick . <eos>
+Someone wondered which author I think you said you thought were upset . <eos>
+Someone wondered which nurse I think you said you thought were upset . <eos>
+Someone wondered which instructor I think you said you thought were upset . <eos>
+Someone wondered which teenager I think you said you thought were upset . <eos>
+Someone wondered which grandparent I think you said you thought were upset . <eos>
+Someone wondered which boy I think you said you thought was lost . <eos>
+Someone wondered which girl I think you said you thought was lost . <eos>
+Someone wondered which patient I think you said you thought was lost . <eos>
+Someone wondered which parent I think you said you thought was lost . <eos>
+Someone wondered which man I think you said you thought was lost . <eos>
+Someone wondered which woman I think you said you thought was lost . <eos>
+Someone wondered which neighbor I think you said you thought was angry . <eos>
+Someone wondered which teacher I think you said you thought was sick . <eos>
+Someone wondered which lawyer I think you said you thought was upset . <eos>
+Someone wondered which reporter I think you said you thought was upset . <eos>
+Someone wondered which coach I think you said you thought was upset . <eos>
+Someone wondered which customer I think you said you thought was upset . <eos>
+Someone wondered which officer I think you said you thought was angry . <eos>
+Someone wondered which fireman I think you said you thought was angry . <eos>
+Someone wondered which baby I think you said you thought was sick . <eos>
+Someone wondered which author I think you said you thought was upset . <eos>
+Someone wondered which nurse I think you said you thought was upset . <eos>
+Someone wondered which instructor I think you said you thought was upset . <eos>
+Someone wondered which teenager I think you said you thought was upset . <eos>
+Someone wondered which grandparent I think you said you thought was upset . <eos>
+Someone wondered which boys I think you said you thought were lost . <eos>
+Someone wondered which girls I think you said you thought were lost . <eos>
+Someone wondered which patients I think you said you thought were lost . <eos>
+Someone wondered which parents I think you said you thought were lost . <eos>
+Someone wondered which men I think you said you thought were lost . <eos>
+Someone wondered which women I think you said you thought were lost . <eos>
+Someone wondered which neighbors I think you said you thought were angry . <eos>
+Someone wondered which teachers I think you said you thought were sick . <eos>
+Someone wondered which lawyers I think you said you thought were upset . <eos>
+Someone wondered which reporters I think you said you thought were upset . <eos>
+Someone wondered which coaches I think you said you thought were upset . <eos>
+Someone wondered which customers I think you said you thought were upset . <eos>
+Someone wondered which officers I think you said you thought were angry . <eos>
+Someone wondered which firemen I think you said you thought were angry . <eos>
+Someone wondered which babies I think you said you thought were sick . <eos>
+Someone wondered which authors I think you said you thought were upset . <eos>
+Someone wondered which murses I think you said you thought were upset . <eos>
+Someone wondered which instructors I think you said you thought were upset . <eos>
+Someone wondered which teenagers I think you said you thought were upset . <eos>
+Someone wondered which grandparents I think you said you thought were upset . <eos>
+Someone wondered which boys I think you said you thought was lost . <eos>
+Someone wondered which girls I think you said you thought was lost . <eos>
+Someone wondered which patients I think you said you thought was lost . <eos>
+Someone wondered which parents I think you said you thought was lost . <eos>
+Someone wondered which men I think you said you thought was lost . <eos>
+Someone wondered which women I think you said you thought was lost . <eos>
+Someone wondered which neighbors I think you said you thought was angry . <eos>
+Someone wondered which teachers I think you said you thought was sick . <eos>
+Someone wondered which lawyers I think you said you thought was upset . <eos>
+Someone wondered which reporters I think you said you thought was upset . <eos>
+Someone wondered which coaches I think you said you thought was upset . <eos>
+Someone wondered which customers I think you said you thought was upset . <eos>
+Someone wondered which officers I think you said you thought was angry . <eos>
+Someone wondered which firemen I think you said you thought was angry . <eos>
+Someone wondered which babies I think you said you thought was sick . <eos>
+Someone wondered which authors I think you said you thought was upset . <eos>
+Someone wondered which murses I think you said you thought was upset . <eos>
+Someone wondered which instructors I think you said you thought was upset . <eos>
+Someone wondered which teenagers I think you said you thought was upset . <eos>
+Someone wondered which grandparents I think you said you thought was upset . <eos>
+Someone wondered which boy I think you said you thought were lost . <eos>
+Someone wondered which girl I think you said you thought were lost . <eos>
+Someone wondered which patient I think you said you thought were lost . <eos>
+Someone wondered which parent I think you said you thought were lost . <eos>
+Someone wondered which man I think you said you thought were lost . <eos>
+Someone wondered which woman I think you said you thought were lost . <eos>
+Someone wondered which neighbor I think you said you thought were angry . <eos>
+Someone wondered which teacher I think you said you thought were sick . <eos>
+Someone wondered which lawyer I think you said you thought were upset . <eos>
+Someone wondered which reporter I think you said you thought were upset . <eos>
+Someone wondered which coach I think you said you thought were upset . <eos>
+Someone wondered which customer I think you said you thought were upset . <eos>
+Someone wondered which officer I think you said you thought were angry . <eos>
+Someone wondered which fireman I think you said you thought were angry . <eos>
+Someone wondered which baby I think you said you thought were sick . <eos>
+Someone wondered which author I think you said you thought were upset . <eos>
+Someone wondered which nurse I think you said you thought were upset . <eos>
+Someone wondered which instructor I think you said you thought were upset . <eos>
+Someone wondered which teenager I think you said you thought were upset . <eos>
+Someone wondered which grandparent I think you said you thought were upset . <eos>
+Someone wondered which boy I think you said you thought was lost . <eos>
+Someone wondered which girl I think you said you thought was lost . <eos>
+Someone wondered which patient I think you said you thought was lost . <eos>
+Someone wondered which parent I think you said you thought was lost . <eos>
+Someone wondered which man I think you said you thought was lost . <eos>
+Someone wondered which woman I think you said you thought was lost . <eos>
+Someone wondered which neighbor I think you said you thought was angry . <eos>
+Someone wondered which teacher I think you said you thought was sick . <eos>
+Someone wondered which lawyer I think you said you thought was upset . <eos>
+Someone wondered which reporter I think you said you thought was upset . <eos>
+Someone wondered which coach I think you said you thought was upset . <eos>
+Someone wondered which customer I think you said you thought was upset . <eos>
+Someone wondered which officer I think you said you thought was angry . <eos>
+Someone wondered which fireman I think you said you thought was angry . <eos>
+Someone wondered which baby I think you said you thought was sick . <eos>
+Someone wondered which author I think you said you thought was upset . <eos>
+Someone wondered which nurse I think you said you thought was upset . <eos>
+Someone wondered which instructor I think you said you thought was upset . <eos>
+Someone wondered which teenager I think you said you thought was upset . <eos>
+Someone wondered which grandparent I think you said you thought was upset . <eos>

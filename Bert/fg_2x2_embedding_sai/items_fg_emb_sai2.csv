@@ -1,0 +1,160 @@
+1,Who did we talk about them at the conference,wh-ngap,1,7
+2,What did they worry about it at the conference,wh-ngap,1,7
+3,Who did we hear about them at the conference,wh-ngap,1,7
+4,What did we speak about that at the conference,wh-ngap,1,7
+5,Who did they ask about this at the conference,wh-ngap,1,7
+6,Who did we complain about them at the conference,wh-ngap,1,7
+7,Who did we chat about them at the conference,wh-ngap,1,7
+8,What did she argue about it at the conference,wh-ngap,1,7
+9,What did we speculate about it at the conference,wh-ngap,1,7
+10,What did he think about it at the conference,wh-ngap,1,7
+1,Who did we talk about at the conference,wh-gap,1,6
+2,What did they worry about at the conference,wh-gap,1,6
+3,Who did we hear about at the conference,wh-gap,1,6
+4,What did we speak about at the conference,wh-gap,1,6
+5,Who did they ask about at the conference,wh-gap,1,6
+6,Who did we complain about at the conference,wh-gap,1,6
+7,Who did we chat about at the conference,wh-gap,1,6
+8,What did she argue about at the conference,wh-gap,1,6
+9,What did we speculate about at the conference,wh-gap,1,6
+10,What did he think about at the conference,wh-gap,1,6
+1,Did we talk about them at the conference,nwh-ngap,1,6
+2,Did they worry about it at the conference,nwh-ngap,1,6
+3,Did we hear about them at the conference,nwh-ngap,1,6
+4,Did we speak about that at the conference,nwh-ngap,1,6
+5,Did they ask about this at the conference,nwh-ngap,1,6
+6,Did we complain about them at the conference,nwh-ngap,1,6
+7,Did we chat about them at the conference,nwh-ngap,1,6
+8,Did she argue about it at the conference,nwh-ngap,1,6
+9,Did we speculate about that at the conference,nwh-ngap,1,6
+10,Did he think about it at the conference,nwh-ngap,1,6
+1,Did we talk about at the conference,nwh-gap,1,5
+2,Did they worry about at the conference,nwh-gap,1,5
+3,Did we hear about at the conference,nwh-gap,1,5
+4,Did we speak about at the conference,nwh-gap,1,5
+5,Did they ask about at the conference,nwh-gap,1,5
+6,Did we complain about at the conference,nwh-gap,1,5
+7,Did we chat about at the conference,nwh-gap,1,5
+8,Did she argue about at the conference,nwh-gap,1,5
+9,Did we speculate about at the conference,nwh-gap,1,5
+10,Did he think about at the conference,nwh-gap,1,5
+1,Who does she think we relied on them at the conference,wh-ngap,2,9
+2,What does he suspect they focused on it at the conference,wh-ngap,2,9
+3,Who do you fear we worked with them at the conference,wh-ngap,2,9
+4,What does she claim we insisted on that at the conference,wh-ngap,2,9
+5,Who do you assume they trusted in this at the conference,wh-ngap,2,9
+6,Who does he maintain we concentrated on them at the conference,wh-ngap,2,9
+7,Who do they say we depended on them at the conference,wh-ngap,2,9
+8,What do I think she bet on it at the conference,wh-ngap,2,9
+9,What do you believe we wondered about it at the conference,wh-ngap,2,9
+10,What do we suppose he turned to it at the conference,wh-ngap,2,9
+1,Who does she think we relied on at the conference,wh-gap,2,8
+2,What does he suspect they focused on at the conference,wh-gap,2,8
+3,Who do you fear we worked with at the conference,wh-gap,2,8
+4,What does she claim we insisted on at the conference,wh-gap,2,8
+5,Who do you assume they trusted in at the conference,wh-gap,2,8
+6,Who does he maintain we concentrated on at the conference,wh-gap,2,8
+7,Who do they say we depended on at the conference,wh-gap,2,8
+8,What do I think she bet on at the conference,wh-gap,2,8
+9,What do you believe we wondered about at the conference,wh-gap,2,8
+10,What do we suppose he turned to at the conference,wh-gap,2,8
+1,Does she think we relied on them at the conference,nwh-ngap,2,8
+2,Does he suspect they focused on it at the conference,nwh-ngap,2,8
+3,Do you fear we worked with them at the conference,nwh-ngap,2,8
+4,Does she claim we insisted on that at the conference,nwh-ngap,2,8
+5,Do you assume they trusted in this at the conference,nwh-ngap,2,8
+6,Does he maintain we concentrated on them at the conference,nwh-ngap,2,8
+7,Do they say we depended on them at the conference,nwh-ngap,2,8
+8,Do I think she bet on it at the conference,nwh-ngap,2,8
+9,Do you believe we wondered about that at the conference,nwh-ngap,2,8
+10,Do we suppose he turned to it at the conference,nwh-ngap,2,8
+1,Does she think we relied on at the conference,nwh-gap,2,7
+2,Does he suspect they focused on at the conference,nwh-gap,2,7
+3,Do you fear we worked with at the conference,nwh-gap,2,7
+4,Does she claim we insisted on at the conference,nwh-gap,2,7
+5,Do you assume they trusted in at the conference,nwh-gap,2,7
+6,Does he maintain we concentrated on at the conference,nwh-gap,2,7
+7,Do they say we depended on at the conference,nwh-gap,2,7
+8,Do I think she bet on at the conference,nwh-gap,2,7
+9,Do you believe we wondered about at the conference,nwh-gap,2,7
+10,Do we suppose he turned to at the conference,nwh-gap,2,7
+1,Who do you think she thinks we relied on them at the conference,wh-ngap,3,11
+2,What do you believe he suspects they focused on it at the conference,wh-ngap,3,11
+3,Who does she think you feared we worked with them at the conference,wh-ngap,3,11
+4,What does he think she claims we insisted on that at the conference,wh-ngap,3,11
+5,Who do they suspect you assumed they trusted in this at the conference,wh-ngap,3,11
+6,Who do we claim he maintains we concentrated on them at the conference,wh-ngap,3,11
+7,Who does she maintain they said we depended on them at the conference,wh-ngap,3,11
+8,What does he believe I think she bet on it at the conference,wh-ngap,3,11
+9,What did you say you believed we wondered about it at the conference,wh-ngap,3,11
+10,What did they think we supposed he turned to it at the conference,wh-ngap,3,11
+1,Who do you think she thinks we relied on at the conference,wh-gap,3,10
+2,What do you believe he suspects they focused on at the conference,wh-gap,3,10
+3,Who does she think you feared we worked with at the conference,wh-gap,3,10
+4,What does he think she claims we insisted on at the conference,wh-gap,3,10
+5,Who do they suspect you assumed they trusted in at the conference,wh-gap,3,10
+6,Who do we claim he maintains we concentrated on at the conference,wh-gap,3,10
+7,Who does she maintain they said we depended on at the conference,wh-gap,3,10
+8,What does he believe I think she bet on at the conference,wh-gap,3,10
+9,What did you say you believed we wondered about at the conference,wh-gap,3,10
+10,What did they think we supposed he turned to at the conference,wh-gap,3,10
+1,Do you think she thinks we relied on them at the conference,nwh-ngap,3,10
+2,Do you believe he suspects they focused on it at the conference,nwh-ngap,3,10
+3,Does she think you feared we worked with them at the conference,nwh-ngap,3,10
+4,Does he think she claims we insisted on that at the conference,nwh-ngap,3,10
+5,Do they suspect you assumed they trusted in this at the conference,nwh-ngap,3,10
+6,Do we claim he maintains we concentrated on them at the conference,nwh-ngap,3,10
+7,Does she maintain they said we depended on them at the conference,nwh-ngap,3,10
+8,Does he believe I think she bet on it at the conference,nwh-ngap,3,10
+9,Did you say you believed we wondered about that at the conference,nwh-ngap,3,10
+10,Did they think we supposed he turned to it at the conference,nwh-ngap,3,10
+1,Do you think she thinks we relied on at the conference,nwh-gap,3,9
+2,Do you believe he suspects they focused on at the conference,nwh-gap,3,9
+3,Does she think you feared we worked with at the conference,nwh-gap,3,9
+4,Does he think she claims we insisted on at the conference,nwh-gap,3,9
+5,Do they suspect you assumed they trusted in at the conference,nwh-gap,3,9
+6,Do we claim he maintains we concentrated on at the conference,nwh-gap,3,9
+7,Does she maintain they said we depended on at the conference,nwh-gap,3,9
+8,Does he believe I think she bet on at the conference,nwh-gap,3,9
+9,Did you say you believed we wondered about at the conference,nwh-gap,3,9
+10,Did they think we supposed he turned to at the conference,nwh-gap,3,9
+1,Who do people think you think she thinks we relied on them at the conference,wh-ngap,4,13
+2,What do people think you believe he suspects they focused on it at the conference,wh-ngap,4,13
+3,Who do people think she thinks you feared we worked with them at the conference,wh-ngap,4,13
+4,What do people think he thinks she claims we insisted on that at the conference,wh-ngap,4,13
+5,Who do people think they suspect you assumed they trusted in this at the conference,wh-ngap,4,13
+6,Who do people think we claim he maintains we concentrated on them at the conference,wh-ngap,4,13
+7,Who do people think  she maintain they said we depended on them at the conference,wh-ngap,4,13
+8,What do people think he believes I think she bet on it at the conference,wh-ngap,4,13
+9,What did people think you said you believed we wondered about it at the conference,wh-ngap,4,13
+10,What did people think they thought we supposed he turned to it at the conference,wh-ngap,4,13
+1,Who do people think you think she thinks we relied on at the conference,wh-gap,4,12
+2,What do people think you believe he suspects they focused on at the conference,wh-gap,4,12
+3,Who do people think she thinks you feared we worked with at the conference,wh-gap,4,12
+4,What do people think he thinks she claims we insisted on at the conference,wh-gap,4,12
+5,Who do people think they suspect you assumed they trusted in at the conference,wh-gap,4,12
+6,Who do people think we claim he maintains we concentrated on at the conference,wh-gap,4,12
+7,Who do people think she maintains they said we depended on at the conference,wh-gap,4,12
+8,What do people think he believes I think she bet on at the conference,wh-gap,4,12
+9,What did people think you said you believed we wondered about at the conference,wh-gap,4,12
+10,What did people think they thought we supposed he turned to at the conference,wh-gap,4,12
+1,Do people think you think she thinks we relied on them at the conference,nwh-ngap,4,12
+2,Do people think you believe he suspects they focused on it at the conference,nwh-ngap,4,12
+3,Do people think she thinks you feared we worked with them at the conference,nwh-ngap,4,12
+4,Do people think he thinks she claims we insisted on that at the conference,nwh-ngap,4,12
+5,Do people think they suspect you assumed they trusted in this at the conference,nwh-ngap,4,12
+6,Do people think we claim he maintains we concentrated on them at the conference,nwh-ngap,4,12
+7,Do people think she maintains they said we depended on them at the conference,nwh-ngap,4,12
+8,Do people think he believes I think she bet on it at the conference,nwh-ngap,4,12
+9,Did people think you said you believed we wondered about that at the conference,nwh-ngap,4,12
+10,Did people think they thought we supposed he turned to it at the conference,nwh-ngap,4,12
+1,Do people think you think she thinks we relied on at the conference,nwh-gap,4,11
+2,Do people think you believe he suspects they focused on at the conference,nwh-gap,4,11
+3,Do people think she thinks you feared we worked with at the conference,nwh-gap,4,11
+4,Do people think he thinks she claims we insisted on at the conference,nwh-gap,4,11
+5,Do people think they suspect you assumed they trusted in at the conference,nwh-gap,4,11
+6,Do people think we claim he maintains we concentrated on at the conference,nwh-gap,4,11
+7,Do people think she maintains they said we depended on at the conference,nwh-gap,4,11
+8,Do people think he believes I think she bet on at the conference,nwh-gap,4,11
+9,Did people think you said you believed we wondered about at the conference,nwh-gap,4,11
+10,Did people think they thought we supposed he turned to at the conference,nwh-gap,4,11
