@@ -13,7 +13,7 @@ library(dplyr)
 
 options(scipen=999)
 
-data <- read.delim("out_agr.txt",header=TRUE,sep =",")
+data <- read.delim("out_agr_punct.txt",header=TRUE,sep =",")
 summary(data)
 
 
@@ -23,11 +23,11 @@ summary(data)
 
 ggplot(aes(x = VerbCondition, y = Surprisal, fill = FillerCondition), data = data) +
  geom_boxplot() +
- xlab("Verb agreement across four levels of clausal embedding in 'it' clefts") +
+ xlab("") + #Verb agreement across four levels of clausal embedding in 'it' clefts") +
  facet_grid(.~EmbeddingLevel) +
  theme_bw(base_size=20) + 
  theme(legend.position = "bottom") +
-  ggsave("~/Desktop/bert_clefts.eps",height=6,width=16)
+  ggsave("~/Desktop/bert_clefts.eps",height=8,width=8)
 
  
 # Level1

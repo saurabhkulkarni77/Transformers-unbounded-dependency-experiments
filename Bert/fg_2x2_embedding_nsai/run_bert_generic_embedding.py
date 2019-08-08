@@ -18,12 +18,12 @@ tokenizer=tokenization.BertTokenizer.from_pretrained(model_name)
 bert.eval()
 
 # Read items from file
-with open('items_fg_emb_nsai_combined.csv', encoding='utf8') as f:
+with open('items_fg_emb_nsai_combined_punct.csv', encoding='utf8') as f:
 	text = f.read().splitlines()
 
 # Write to file
 orig_stdout = sys.stdout
-f = open('out_fg_emb_nsai_combined.txt', 'w')
+f = open('out_fg_emb_nsai_combined_punct.txt', 'w')
 sys.stdout = f
 
 # Write Column Headers

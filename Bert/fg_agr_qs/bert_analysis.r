@@ -12,7 +12,7 @@ library(dplyr)
 
 options(scipen=999)
 
-data <- read.delim("out_agr.txt",header=TRUE,sep =",")
+data <- read.delim("out_agr_punct.txt",header=TRUE,sep =",")
 summary(data)
 
 
@@ -22,17 +22,12 @@ summary(data)
 
 ggplot(aes(x = VerbCondition, y = Surprisal, fill = FillerCondition), data = data) +
  geom_boxplot() +
- xlab("Verb agreement across four levels of clausal embedding in 'which' interrogatives") +
+ xlab("") + #Verb agreement across four levels of clausal embedding in 'which' interrogatives") +
  facet_grid(.~EmbeddingLevel) +
  theme_bw(base_size=20) + 
  theme(legend.position = "bottom") +
-  ggsave("~/Desktop/bert_qs.eps",height=6,width=16)
+  ggsave("~/Desktop/bert_qs.eps",height=8,width=8)
 
-
-
-
-
-#https://stackoverflow.com/questions/17084566/put-stars-on-ggplot-barplots-and-boxplots-to-indicate-the-level-of-significanc
 
 # Level1
 
@@ -77,16 +72,4 @@ t.test(y$Surprisal ~ y$FillerCondition)
 y <- x[x$VerbCondition == 'V-sg',]
 t.test(y$Surprisal ~ y$FillerCondition)
 # not sig
-
-
-if (FALSE) {
-data2 = data %>%
-  mutate(Condition = apply( data[ , c('FillerCondition','VerbCondition') ] , 1 , paste , collapse = "-" )) %>%
-  select(-FillerCondition, -VerbCondition) 
-
-ggplot(aes(x = Condition, y = Surprisal, fill = Condition), data = data2) +
- geom_boxplot() +
- xlab("Conditions across four levels of clausal embedding") +
- facet_grid(.~EmbeddingLevel)
-}
 

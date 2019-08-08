@@ -11,7 +11,7 @@ library(ggplot2)
 
 options(scipen=999)
 
-data <- read.delim("out_fg_emb_sai_combined.txt",header=TRUE,sep =",")
+data <- read.delim("out_fg_emb_sai_combined_wordfinal_punct.txt",header=TRUE,sep =",")
 summary(data)
 
 
@@ -23,7 +23,7 @@ summary(data)
 
 ggplot(aes(x = Condition, y = Surprisal, fill = Condition), data = data) +
  geom_boxplot() +
- #xlab("Conditions across four levels of clausal embedding") +
+ xlab("") + #Conditions across four levels of clausal embedding") +
  facet_grid(.~EmbeddingLevel) +
    theme_bw(base_size=18)  +
    theme(legend.position = "none") +

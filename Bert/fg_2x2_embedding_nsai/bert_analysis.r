@@ -11,7 +11,7 @@ library(ggplot2)
 
 options(scipen=999)
 
-data <- read.delim("out_fg_emb_nsai_combined.txt",header=TRUE,sep =",")
+data <- read.delim("out_fg_emb_nsai_combined_punct.txt",header=TRUE,sep =",")
 summary(data)
 
 
@@ -28,4 +28,4 @@ ggplot(aes(x = Condition, y = Surprisal, fill = Condition), data = data) +
  facet_grid(.~EmbeddingLevel) +  
   theme_bw(base_size=18)  +
  theme(legend.position = 'none') +
-  ggsave("~/Desktop/bert_nsai.eps",height=6,width=6)
+  ggsave("~/Desktop/bert_nsai.eps",height=6,width=16)
